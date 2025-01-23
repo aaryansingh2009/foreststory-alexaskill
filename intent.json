@@ -1,0 +1,214 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "enchanted forest story",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": [
+                        "cancel"
+                    ]
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": [
+                        "help"
+                    ]
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": [
+                        "quit",
+                        "stop"
+                    ]
+                },
+                {
+                    "name": "ExploreTreeIntent",
+                    "slots": [],
+                    "samples": [
+                        "explore the tree",
+                        "explore",
+                        "explore tree"
+                    ]
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": [
+                        "restart"
+                    ]
+                },
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "EnterForestIntent",
+                    "slots": [],
+                    "samples": [
+                        "enter forest",
+                        "Enter the forest"
+                    ]
+                },
+                {
+                    "name": "TurnBackHomeIntent",
+                    "slots": [],
+                    "samples": [
+                        "turn back and go home",
+                        "go home",
+                        "turn back "
+                    ]
+                },
+                {
+                    "name": "InvestigateSoundIntent",
+                    "slots": [],
+                    "samples": [
+                        "investigate the sound",
+                        "investigat sound",
+                        "investigate"
+                    ]
+                },
+                {
+                    "name": "HelpCreatureIntent",
+                    "slots": [],
+                    "samples": [
+                        "help creature",
+                        "help the creature"
+                    ]
+                },
+                {
+                    "name": "RunAwayIntent",
+                    "slots": [],
+                    "samples": [
+                        "away",
+                        "go away",
+                        "run",
+                        "run away"
+                    ]
+                },
+                {
+                    "name": "KnowledgeOfForestIntent",
+                    "slots": [],
+                    "samples": [
+                        "knowledge",
+                        "forest secrets",
+                        "wish for knowledge"
+                    ]
+                },
+                {
+                    "name": "TalkToAnimalsIntent",
+                    "slots": [],
+                    "samples": [
+                        "wish to talk to animals",
+                        "talk aniaml",
+                        "animal",
+                        "talk to animal"
+                    ]
+                },
+                {
+                    "name": "ReturnTomorrowIntent",
+                    "slots": [],
+                    "samples": [
+                        "tomorrow",
+                        "return tomorrow"
+                    ]
+                },
+                {
+                    "name": "LookForNearbyPathIntent",
+                    "slots": [],
+                    "samples": [
+                        "look for path",
+                        "nearby path",
+                        "look for nearby path"
+                    ]
+                },
+                {
+                    "name": "SamePathAsBeforeIntent",
+                    "slots": [],
+                    "samples": [
+                        "same path as before",
+                        "same path",
+                        "take same path"
+                    ]
+                },
+                {
+                    "name": "TryDifferentPathIntent",
+                    "slots": [],
+                    "samples": [
+                        "different",
+                        "different path"
+                    ]
+                },
+                {
+                    "name": "JoinDanceIntent",
+                    "slots": [],
+                    "samples": [
+                        "dance",
+                        "join",
+                        "join dance",
+                        "join the dance"
+                    ]
+                },
+                {
+                    "name": "WatchQuietlyIntent",
+                    "slots": [],
+                    "samples": [
+                        "watch",
+                        "watch quietly"
+                    ]
+                },
+                {
+                    "name": "TalkToOwlIntent",
+                    "slots": [],
+                    "samples": [
+                        "owl",
+                        "talk",
+                        "talk to owl"
+                    ]
+                },
+                {
+                    "name": "ExaminePotionIntent",
+                    "slots": [],
+                    "samples": [
+                        "examine",
+                        "potion",
+                        "examine potion"
+                    ]
+                },
+                {
+                    "name": "StartIntent",
+                    "slots": [],
+                    "samples": [
+                        "start",
+                        "start story"
+                    ]
+                },
+                {
+                    "name": "ApologizeIntent",
+                    "slots": [],
+                    "samples": [
+                        "apologize and explain my fear",
+                        "explain my fear",
+                        "apologize"
+                    ]
+                },
+                {
+                    "name": "KeepRunningIntent",
+                    "slots": [],
+                    "samples": [
+                        "continue running",
+                        "keep running"
+                    ]
+                },
+                {
+                    "name": "RestartIntent",
+                    "slots": [],
+                    "samples": [
+                        "start over",
+                        "restart"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
