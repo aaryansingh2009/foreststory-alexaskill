@@ -4,7 +4,7 @@
 Welcome to our FBLA - Intro to Programming website. This website is an interactive story which interacts with the user. There are stories which you can choose from and goes on based on what the user chooses on.
 
 ## Code Base:
-We used a variety of languages such as HTML, CSS, and JavaScript. The most common language is HTML which formats each page. With the help of Bootstrap CSS , the web page is formatted with minimal CSS. However, if the output isn't good, we overwrote the CSS.
+We used python as our main language and use AWS Services to write our code, Invoaction Name, Intents, Slots, and etc.
 
 ## Contributing:
 We welcome any and all contributions! Here are some ways you can get started:
