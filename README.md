@@ -1,7 +1,7 @@
 # FBLA - Intro to Programming
 
 ## Description:
-Welcome to our FBLA - Intro to Programming website. This website is an interactive story which interacts with the user. There are stories which you can choose from and goes on based on what the user chooses on.
+Welcome to our FBLA - Intro to Programming website. This skill is an interactive story which interacts with the user. 
 
 ## Code Base:
 We used python as our main language and use AWS Services to write our code, Invoaction Name, Intents, Slots, and etc.
